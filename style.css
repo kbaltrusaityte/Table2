@@ -1,0 +1,24 @@
+*{
+    font-family: 'Inconsolata';
+}
+
+th{
+    color: white;
+    background-color: rgb(118, 5, 120);
+}
+
+.sviesesne{
+    color: white;
+    background-color: rgb(240, 115, 229);
+}
+
+.tamsesne{
+    color: white;
+    background-color: rgb(162, 91, 168);
+}
+
+td,th{
+    border: 1% solid white;
+    padding: 11px 17px;
+    text-align: left;
+}
